@@ -1,2 +1,2 @@
-# data-science-case-studies
-Learning data science in a 100-day challenge and creating case studies.
+# data-science-decision-trees
+= Information-Based Learning (Decision Trees) 
